@@ -1,0 +1,17 @@
+A beginner-to-advanced PyTorch tutorial in a single Python script, built as 6 progressive levels:
+
+Tensors and basic operations
+Autograd (automatic differentiation)
+Manual linear regression with gradient descent
+nn.Module, loss functions, and optimizers
+Binary classification with an MLP and DataLoader
+An advanced ResNet-style CNN pipeline with a custom Dataset, train/val/test split, AdamW, cosine LR scheduling, gradient clipping, mixed precision (AMP), early stopping, and best-model checkpointing
+
+It uses synthetic data, so no dataset download is needed, and it runs on both CPU and GPU.
+
+Language	Python 3.9+
+Deep Learning Framework	PyTorch (torch, torch.nn, torch.optim, torch.utils.data)
+Model Architecture	MLP, CNN, ResNet-style residual blocks
+Techniques	Autograd, AdamW, CosineAnnealingLR, gradient clipping, AMP, early stopping, checkpointing
+Development	VS Code, Jupyter Notebook, Google Colab
+Version Control	Git, GitHub
